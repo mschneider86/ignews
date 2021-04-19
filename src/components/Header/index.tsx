@@ -16,7 +16,3 @@ export function Header() {
     </header>
   );
 }
-
-const descriptions = document.querySelectorAll(
-  'title-episode__desktop title-episode__description'
-);
